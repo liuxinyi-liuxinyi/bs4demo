@@ -1,0 +1,49 @@
+/* ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+} */
+.daohang1 a{
+	text-decoration:none;
+}
+.left{
+	background:#283643 ;
+	position: fixed;
+	width:12rem;
+	height: 50rem;
+	margin-top:3.5rem;
+	margin-bottom: 0;
+	padding-top:1rem ;
+}
+ .danghang1{
+	box-sizing: border-box;
+	padding-left:2rem;
+	padding-right:2rem;
+	height: 3rem;
+	line-height: 3rem;
+	color: #fff;
+	cursor: pointer;
+}
+.daohang{
+	list-style: none;
+}
+.daohang1 a{
+	color:#fff;
+	padding:2rem 0;
+	height:3rem;
+	line-height:3rem;
+}
+.daohang1:hover{
+background: #3c4248;
+}
+.right{
+		position: fixed;
+		top: 3.5rem;
+		bottom: 0;
+		left: 12rem;
+		right: 0;
+
+	}
+	.mianban{
+		margin:1rem;
+	}
